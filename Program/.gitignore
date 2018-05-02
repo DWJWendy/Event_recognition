@@ -1,0 +1,12 @@
+*.idea
+*.csv
+*.txt
+*.xlsx
+*.xls
+*.pdf
+*.png
+*.model
+*.json
+Data
+Data_2
+Results
